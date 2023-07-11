@@ -1,5 +1,5 @@
 module.exports = {
-  projectRoot: `${__dirname}/example`,
+  projectRoot: `${__dirname}/lib/dist`,
   watchFolders: [
     __dirname,
   ],
